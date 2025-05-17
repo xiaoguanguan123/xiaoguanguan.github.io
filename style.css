@@ -9,3 +9,29 @@ header{
     border: 10px pink solid;
     padding: 50px 20px 40px;
 }
+nav{
+    font-size: 45px;
+    color: yellow;
+    background-color: black;
+    border: 10px pink;
+    padding: 20px 10px 20px;
+}
+nav a{
+    text-decoration: none;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a{
+    display: inline;
+}
+img{
+    font-size: 100px;
+    color: blue;
+}
