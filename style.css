@@ -24,14 +24,23 @@ nav a:hover{
 }
 a{
     text-decoration: none;
+    font-size: 25px;
+    border: 10px red;
+    padding: 10px 20px 10px;
 }
 a:hover{
     text-decoration: underline;
 }
-a{
+a li{
     display: inline;
+    margin-right: 4vw;
 }
 img{
     font-size: 100px;
     color: blue;
+}
+h1{
+    background-color: pink;
+    border: 40px;
+    padding: 40px 20px 30px;
 }
