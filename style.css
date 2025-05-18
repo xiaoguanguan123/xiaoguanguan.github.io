@@ -109,6 +109,6 @@ section{
     }
     header a{
         left:50%
-        transform:translateX(-50%)
+        transformtranslateX(-50%)
     }
 }
